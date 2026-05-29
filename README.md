@@ -1,1 +1,2 @@
-# Olimpiad Tasks & LeetCode Solutions
+#  LeetCode Solutions & Olimpiad Tasks
+
